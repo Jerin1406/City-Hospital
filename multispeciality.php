@@ -10,30 +10,30 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-warning">
         <div class="container-fluid">
-          <a class="navbar-brand" href="C:\xampp\htdocs\hospital\index.html">CITY HOSPITAL</a>
+          <a class="navbar-brand" href="C:\xampp\htdocs\hospital\index.php">CITY HOSPITAL</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="C:\xampp\htdocs\hospital\centresofexcellence.html">CENTRES OF EXCELLENCE</a>
+                <a class="nav-link active" aria-current="page" href="C:\xampp\htdocs\hospital\centresofexcellence.php">CENTRES OF EXCELLENCE</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="C:\xampp\htdocs\hospital\multispeciality.html">MULTI SPECIALITY</a>
+                <a class="nav-link" href="C:\xampp\htdocs\hospital\multispeciality.php">MULTI SPECIALITY</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="C:\xampp\htdocs\hospital\contact.html">Contact Us</a>
+                <a class="nav-link" href="C:\xampp\htdocs\hospital\contact.php">Contact Us</a>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="C:\xampp\htdocs\hospital\quicklinks.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="C:\xampp\htdocs\hospital\quicklinks.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Quick Links
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="C:\xampp\htdocs\hospital\contact.html">Post a Query</a></li>
+                  <li><a class="dropdown-item" href="C:\xampp\htdocs\hospital\contact.php">Post a Query</a></li>
                   <li><a class="dropdown-item" href="#">Book Physical Appointment</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="C:\xampp\htdocs\hospital\booking.html">Consult Doctor Online</a></li>
+                  <li><a class="dropdown-item" href="C:\xampp\htdocs\hospital\booking.php">Consult Doctor Online</a></li>
                 </ul>
               </li>
               <li class="nav-item">
