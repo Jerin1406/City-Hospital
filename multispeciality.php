@@ -57,7 +57,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Department of Orthopedics</h5>
                               <p class="card-text">Our full-fledged Orthopedics Department is one of the advanced units designed for muscular and skeletal injuries and is rated as the best among Accident and Trauma care Units.<br>We have the best bone specialists in Kerala.</p>
-                              <a href="booking.html" class="btn btn-primary">Book Appointment</a>
+                              <a href="booking.php" class="btn btn-primary">Book Appointment</a>
                             </div>
                           </div>
                           </td>
@@ -68,7 +68,7 @@
                               <p class="card-text">Our Accident and Trauma Care unit (Casualty) Department has the best facilities providing Emergency Medical Services in Kakkanad Area.
 
                                 It is fully equipped with state-of-the-art life saving equipment conforming to international standards..</p>
-                              <a href="booking.html" class="btn btn-primary">Book Appointment</a>
+                              <a href="booking.php" class="btn btn-primary">Book Appointment</a>
                             </div>
                           </div></td>
                        
@@ -77,7 +77,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Department Of Cardiology</h5>
                               <p class="card-text">Our Cardiac wing is named Cochin Heart Institute and our Cardiac Emergency Response Team constitutes some of the leading Cardiologists and Cardiac Surgeons and Cardiac Anesthetists assisted by well-trained medical and paramedical staff.</p>
-                              <a href="booking.html" class="btn btn-primary">Book Appointment</a>
+                              <a href="booking.php" class="btn btn-primary">Book Appointment</a>
                             </div>
                           </div></td>
                         </tr>
@@ -89,7 +89,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Neurology And Behavioral Sciences</h5>
                                   <p class="card-text">Our Department of Neurology and Behavioral Sciences focuses on the diagnosis and treatment of diseases involving the brain and spine, peripheral and autonomic nervous systems. Our neurologists are responsible for the diagnosis, treatment, and management of all diseases and disorders falling under these classifications.. When surgical intervention is required the neurologist will refer the cases to a neurosurgeon. </p>
-                                  <a href="booking.html" class="btn btn-primary">Book Appointment</a>
+                                  <a href="booking.php" class="btn btn-primary">Book Appointment</a>
                                 </div>
                               </div>
                         </td>
@@ -99,7 +99,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Department Of Kidney Transplant Unit</h5>
                                   <p class="card-text">The Kidney Transplant Inpatient Unit at Sunrise Hospital is a 3 bed unit with a dedicated and experienced staff who specialize in the care of patients who are preparing for a kidney transplant or who have had a kidney transplant.To accommodate significant growth in patient volumes the transplant unit was developed to improve the continuum of care between pre- and post-transplant patients.</p>
-                                  <a href="booking.html" class="btn btn-primary">Book Appointment</a>
+                                  <a href="booking.php" class="btn btn-primary">Book Appointment</a>
                                 </div>
                               </div>
                         </td>
@@ -109,7 +109,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Radiology / Radiodiagnosis And Imaging</h5>
                                   <p class="card-text">Today radiological imaging is no longer limited to the use of X-rays alone, and includes technology-intensive imaging with high frequency sound waves, magnetic fields, and radioactivity. There is also Interventional Radiology, where minimal invasive procedures are done with the guidance of imaging technologies.The Radiology Department provides a wide range of diagnostic imaging services: including CT scanning,MRI scanning, Ultrasound scanning, and X ray.</p>
-                                  <a href="booking.html" class="btn btn-primary">Book Appointment</a>
+                                  <a href="booking.php" class="btn btn-primary">Book Appointment</a>
                                 </div>
                               </div>
                         </td>
